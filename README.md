@@ -1,1 +1,1 @@
-# recipe-page
+You can have a glance on this component
